@@ -13,7 +13,7 @@ Za da go startuvame proektot prvoto sto treba da go napraime e :
     <li>So desen klik na gluvceto od padacko meni odbirame <i>run</i> so sto sme go pustile serverot (back-end - Spring Boot)</li>
     <li>Posle toa navigirame do terminal sto se naogje vo sklop na IntelliJ</li>
     <li>potoa navigirame do direktorijum koj go sodrzi front-end delot od proektot</li>
-    <li>so komanda <strong>cd frontend/onlinestore doagjame do toj folder</strong></li>
+  <li>so komanda <strong>cd frontend/onlinestore</strong> doagjame do toj folder</strong></li>
     <li>so komanda <strong>npm start </strong> startuvame front-end delot od proektot</li>
     <li>i sega aplikacija e spremna za koristenje</li>
   </ul>
